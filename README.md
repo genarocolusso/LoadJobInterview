@@ -1,45 +1,54 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Shipment List Challenge
 
-## Available Scripts
+First of all, we’d like to thank you for choosing Loadsmart. As a next step in the recruitment process, we have an exercise for you.
 
-In the project directory, you can run:
+This is an opportunity to demonstrate your front end skills. Just be clear and do it to the best of your ability - the faster you complete it, of course, the quicker we can move forward.
 
-### `yarn`
-For Yarn 2 users postinstall won't run automatically, please run `yarn run postinstall` manually to enable hooks.
+## Goal
 
-### `yarn start`
+Your goal is to create a web app that allows users to see the details of a shipment from a list. Check the wireframes at the bottom of the page for reference.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Solution
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Requirements
 
-### `yarn test`
+- Your submission will be evaluated using the latest version of Google Chrome
+- You can use Javascript or Typescript, the standard project is only supported by Javascript for Typescript add the necessary dependencies
+- CSS-in-JS (e.g. Styled components, Emotion) or CSS preprocessors (e.g. Sass or Stylus) are allowed
+- Your UI must match the wireframes
+- Your solution should be adaptable to support dynamic content (For example, more than 100 shipments on that list)
+- Write Unit tests. You decide what to test
+- Keep the tests running using `$ yarn test`
+- Your solution should provide a *responsive version*
+- Please include a DECISIONS.md file containing all information about the decisions you've made. For example, library X was used because of this, tested layer Y because of that, used Z architecture, etc.
+- Please DON'T use any UI components (e.g. React Material-UI or Twitter Bootstrap)
+- Please DON'T reuse any code from Loadsmart's website
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Expected Output
 
-### `yarn build`
+![challenge](https://user-images.githubusercontent.com/381179/97653412-1d2ddb00-1a37-11eb-97e8-a190b4c8ee6d.png)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Documentation
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Resources
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Fonts: https://www.google.com/fonts/specimen/Roboto
+- Icons are available in the [resources/icons folder](resources/icons/).
 
-### `yarn eject`
+### API Demo
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- https://api-loadsmart-shipments.netlify.app/
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## What we are going to assess
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Clean and organized code in React and Styles
+- Demonstrate your skills in application architecture, extensibility, and performance
+- A sense of UX (if some behavior is unspecified in this document, use your best guess)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## When finished
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Send an email to the _recruiter_ notifying you are done
+- Please label the email subject line (Your Full Name - Loadsmart Front End Test)
+- Keep in mind that we may ask you to improve and/or change your solution during the
+  interview
+- Please, do not post your solution to any kind of public repository
