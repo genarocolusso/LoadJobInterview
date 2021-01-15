@@ -45,10 +45,4 @@ Your goal is to create a web app that allows users to see the details of a shipm
 - Demonstrate your skills in application architecture, extensibility, and performance
 - A sense of UX (if some behavior is unspecified in this document, use your best guess)
 
-## When finished
-
-- Send an email to the _recruiter_ notifying you are done
-- Please label the email subject line (Your Full Name - Loadsmart Front End Test)
-- Keep in mind that we may ask you to improve and/or change your solution during the
-  interview
-- Please, do not post your solution to any kind of public repository
+ 
