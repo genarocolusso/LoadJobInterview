@@ -1,9 +1,6 @@
 # Shipment List Challenge
 
-First of all, we’d like to thank you for choosing Loadsmart. As a next step in the recruitment process, we have an exercise for you.
-
-This is an opportunity to demonstrate your front end skills. Just be clear and do it to the best of your ability - the faster you complete it, of course, the quicker we can move forward.
-
+ 
 ## Goal
 
 Your goal is to create a web app that allows users to see the details of a shipment from a list. Check the wireframes at the bottom of the page for reference.
