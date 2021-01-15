@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My Connected React-Redux Component should render with given state from Redux store 1`] = `
+<div
+  className="sc-bdfBwQ bMIFzs"
+  onClick={[Function]}
+  selected={true}
+>
+  <div
+    className="sc-gsTCUz jTLTdm"
+  >
+    <div
+      className="month"
+    >
+      Feb
+    </div>
+    <div
+      className="day"
+    >
+      26
+    </div>
+  </div>
+  <div
+    className="sc-dlfnbm"
+  >
+    <div
+      className="sc-hKgILt jXsHHf"
+    >
+      Savannah
+      , 
+      GA
+    </div>
+    <div
+      className="sc-hKgILt jXsHHf"
+    >
+      Aurora
+      , 
+      IL
+    </div>
+  </div>
+</div>
+`;

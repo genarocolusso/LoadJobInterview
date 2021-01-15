@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My Connected React-Redux Component should render component with given stops 1`] = `
+<div
+  className="sc-dlfnbm kfsYjI"
+>
+  <span>
+    FEB 26
+  </span>
+  <div>
+    <div
+      className="sc-bdfBwQ hEePOT"
+    >
+      Savannah
+      , 
+      GA
+    </div>
+    <svg
+      className="sc-gsTCUz hZFRFe"
+      fill="currentColor"
+      height="1em"
+      stroke="currentColor"
+      strokeWidth="0"
+      style={
+        Object {
+          "color": undefined,
+        }
+      }
+      viewBox="0 0 24 24"
+      width="1em"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+      />
+    </svg>
+  </div>
+  <div>
+    <div
+      className="sc-bdfBwQ hEePOT"
+    >
+      Aurora
+      , 
+      IL
+    </div>
+  </div>
+</div>
+`;

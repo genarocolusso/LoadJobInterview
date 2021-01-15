@@ -1,0 +1,3 @@
+export const SELECT_SHIPMENT = "SELECT_SHIPMENT";
+export const GET_SHIPMENTS = "GET_SHIPMENTS";
+export const CHANGE_STATUS = "CHANGE_STATUS";
